@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Pedro Henrique 😁
 
  <div>
    <a href="https://github.com/Pedrin5">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para mais informações sobre mim segue os links!!!
  
 <div> 
   
