@@ -1,3 +1,4 @@
 # Pedrin é legal?
-[x] s
-[] n
+- [x] s 
+- [x] n
+ > ele é especial do **jeito dele**
